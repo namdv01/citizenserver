@@ -1,0 +1,22 @@
+"idCard":"10062001",
+    "fullname":"Đỗ Văn Nam",
+    "gender": "male",
+    "birthday":"2001-10-06",
+    "educational":"12/12",
+    "phone":"0339501427",
+    "regularAdress":"xã Hữu Bằng",
+    "temporaryAdress":"xã Hữu Bằng",
+    "job":"sinh viên",
+    "religion":"không"
+
+
+
+"username":"01",
+    "password":"01",
+    "email":"01@gmail.com",
+    "phone":"787947194619" 
+
+
+    
+        
+          
